@@ -1,0 +1,64 @@
+<!--Options menu for filtering-->
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/show_all" android:title="Show All"></item>
+<item android:id="@+id/Building" android:title="Buildings"    >
+    <menu>
+        <group android:checkableBehavior="single">
+        <item android:id="@+id/all_buildings"
+        android:title="All"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        />
+    <item android:id="@+id/Science"
+        android:title="Science"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        />
+    <item android:id="@+id/Humanities"
+        android:title="Humanities"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        />
+        <item android:id="@+id/Commerce"
+            android:title="Commerce"
+            android:orderInCategory="100"
+            android:showAsAction="never"
+            />
+        />
+        <item android:id="@+id/EBE"
+        android:title="Engineering and Built Environment"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        />
+        </group>
+    </menu>
+</item>
+<item android:id="@+id/poi" android:title="Points of Interest">
+
+    <menu>
+        <group android:checkableBehavior="single">
+        <item android:id="@+id/all_icons"
+            android:title="All"
+            android:orderInCategory="100"
+            android:showAsAction="never"
+            />
+        <item android:id="@+id/Food"
+            android:title="Food"
+            android:orderInCategory="100"
+            android:showAsAction="never"
+            />
+        <item android:id="@+id/ATMs"
+            android:title="ATMs"
+            android:orderInCategory="100"
+            android:showAsAction="never"
+            />
+        <item android:id="@+id/JammieStop"
+            android:title="Jammie Stop"
+            android:orderInCategory="100"
+            android:showAsAction="never"
+            />
+        </group>
+    </menu>
+</item>
+
+</menu>

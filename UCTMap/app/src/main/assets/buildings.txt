@@ -1,0 +1,21 @@
+R.W. James~description~Science
+Molecular Biology~description~Science
+Mathematics~description~Science
+Computer Science~description~Science
+PD Hahn~description~Science
+NSLT~description~Science
+Hoerikwaggo~description~Engineering and Built Environment
+Geological Sciences~description~Science
+Electrical Mechanical~description~Engineering and Built Environment
+Snape~description~Engineering and Built Environment
+Chemical Engineering~description~Engineering and Built Environment
+Menzies~description~Engineering and Built Environment
+Environmental & Geographical Sceiences~description~Engineering and Built Environment
+Arts Block~description~Humanities
+Beattie~description~Humanities
+Humanities~description~Humanities
+Centlivres~description~Engineering and Built Environment
+Leslie Commerce~description~Commerce
+Leslie Social~description~Commerce
+Botany~description~Science
+John Day Zoology~description~Science

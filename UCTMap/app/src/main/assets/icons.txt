@@ -1,0 +1,32 @@
+Post office~postOffice~Local Post Office.~-33.957069281655194,18.461346924304962
+Juta Books and Stationary~juta~Open Mon to Fri 8:00 - 16:30 and Sat 9:00 - 13:00.~-33.956998, 18.460559
+Campus Protection Services~cps~Tel: 021 650 2121.~-33.959210044710645,18.460659943521023
+Ridelink Parking~rideLink~Reserved parking for  2 or more passengers (3 people per vehicle).~-33.959635, 18.462105
+Visitors Reception and Information Office~info~Directions, campus maps and temporary visitors parking permits may be obtained from here.~-33.955926, 18.462393
+Chancellor Oppenheimer Library~library~Open Mon to Thurs 8:00 - 22:00,Fri 8:00 - 18:00,Sat 9:00 - 17:00~-33.95783209805089,18.460386022925377
+North Stop~jammie~Jammie North Stop. Timetable: https://www.uct.ac.za/students/services/jammieshuttle/pilotproject/timetable/~-33.955156787733095,18.46179485321045
+West Stop~jammie~Jammie West Stop. Timetable: https://www.uct.ac.za/students/services/jammieshuttle/pilotproject/timetable/~-33.957426357334214,18.459730222821236
+South Stop~jammie~Jammie South Stop. Timetable: https://www.uct.ac.za/students/services/jammieshuttle/pilotproject/timetable/~-33.96041917104399,18.459826111793518
+Drop and Stop~jammie~For pick ups and drop offs. The Sandown Jammie leaves from here.~-33.960539,18.460524
+ATMs~atm~Absa and Standard Bank.~-33.95722390339486,18.46059925854206
+ATMs~atm~Absa, FNB and Standard Bank.~-33.959641,18.460194
+Food Court~food~Budget Rolls, Panda Land and Africuisine.~-33.956904,18.460757
+Frigo Cafe~food~Frigo Cafe: Sandwiches,coffee,hot chocolate,biscuits, muffins, croissants.~-33.957309,18.460972
+Souper Sandwich, Chinese Food, Sweet Den~food~Souper Sandwich: Muffins,sandwiches,cool drinks. Chinese Food: Chow mein,fried rice, spring rolls, etc. Sweet den: Chips cool drinks, etc.~-33.955575,18.46132
+Humanities Food Court~food~Humanities food~-33.959835,18.460083
+Engineering Food Court~food~Engineering Food Court~-33.958476,18.460096
+Smuts Tuckshop~food~Smuts Tuckshop~-33.957386,18.462298
+Sports Centre Pub~food~Sports Centre Pub~-33.955888,18.463084
+Cafe Quencha and Java Junction~food~Cafe Quencha: Pizza,burgers, chips. Java Junction: Coffee,sandwiches, biscuits.~-33.959206,18.460155
+North Stop Standard Parking~parkingBlue~Standard Parking. Anyone can park here.~-33.95489898571528,18.46212074160576
+Sports Centre Standard Parking~parkingBlue~Standard Parking. Anyone can park here.~-33.95472183328265,18.463614396750927
+Green Mile Standard Parking~parkingBlue~Standard Parking. Anyone can park here.~-33.96016194114492,18.461464941501617
+South Stop Standard Parking~parkingBlue~tandard Parking. Anyone can park here.~-33.96080904666222,18.45960047096014
+Sports Centre Postgrad Parking~parkingYel~Parking for postgrads only.~-33.955556142930476,18.463562093675137
+PD Hahn Postgrad Parking~parkingYel~Parking for postgrads only.~-33.95493708595481,18.46060462296009
+West Stop Postgrad Parking~parkingYel~Parking for postgrads only.~-33.95745249832973,18.459122702479362
+Nursery Rd Postgrad Parking~parkingYel~Parking for postgrads only.~-33.959074892907346,18.458265401422977
+Staff Parking PD Hahn~parkingRed~Parking for staff only.~-33.956056446692244,18.460796736180782
+Staff Parking Hoerikwaga~parkingRed~Parking for staff only.~-33.95646052534844,18.460290804505348
+Staff Parking Snape~parkingRed~Parking for staff only.~-33.9590228899958,18.459441885352135
+West Stop Staff Parking~parkingRed~Parking for staff only.~-33.96103818813199,18.459827788174152
