@@ -5,12 +5,13 @@ Date: 22 September 2014.
 
 Installation Requirements:
 - The UCT Map app has been designed and compiled using Android SDK 20, but has backwards compatibility to SDK 15. 
-- The app requires approximately 7.4MB of space for installation.
 - Permission must be granted to the app to use GPS  and the Internet via mobile data or Wi-fi and. The app will be more accurate if connected to Wi-fi.
+
 
 Description:
 One of several Capstone Projects for CSC3002S, MapUCT is an interactive maps app that allows users to find 
-their way around UCT and has features such as filtering map icons and finding routes to locations.
+their way around UCT and has features such as filtering map icons and finding routes to locations. 
+This was implemented in the form of an Android app.
 
 Functionality:
 - Overview of Map with Colour-coded buildings, icons for points of interest, parking.
@@ -18,6 +19,9 @@ Functionality:
 - Filter buildings by faculty and points of interest.
 - Details on Demand: Display Information about Buildings and Points of Interest
 - Display Routes from specified location to target locations.
+
+Original design by Victour Soudien, Nabeelah Harris and Zahraa Mathews for UCT CSC4000W Visual thinking and Visualisation.
+http://people.cs.uct.ac.za/~mkuttel/UCTMapVisualization.html
 
 Getting an API key to use with Google Maps API*:
 1. Setup Google Developer Account at console.developers.google.com
