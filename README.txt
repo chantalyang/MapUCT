@@ -1,6 +1,5 @@
-CSC3003S Capstone Project: MapUCT - An interactive, improved map of UCT 
-Soft Engineering Stage 4: Implementation and Testing
-Team: Chantal Yang (YNGCHA005), Noosrat Hossain (HSSNOO003), Kiaan Pillay (PLLKIA003)
+CSC3003S Capstone Project: MapUCT - An interactive, improved map of the University of Cape Town
+Chantal Yang, Noosrat Hossain, Kiaan Pillay
 
 Date: 22 September 2014.
 
