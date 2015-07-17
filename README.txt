@@ -5,8 +5,7 @@ Date: 22 September 2014.
 
 Installation Requirements:
 - The UCT Map app has been designed and compiled using Android SDK 20, but has backwards compatibility to SDK 15. 
-- Permission must be granted to the app to use GPS  and the Internet via mobile data or Wi-fi and. The app will be more accurate if connected to Wi-fi.
-
+- Permission must be granted to the app to use GPS  and the Internet via mobile data or Wi-fi.
 
 Description:
 One of several Capstone Projects for CSC3002S, MapUCT is an interactive maps app that allows users to find 
